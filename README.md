@@ -4,7 +4,8 @@ My name is Robert Petrosyan.
 <br>I'm from Armenia, but living in Russia.
 
 🌱 I’m currently learning in the educational platform [**Skillbox**](https://go.redav.online/9dbfe2e2e2572ce0) by profession **Python developer**.
-<br>[**BestHotelOffers_Bot**](https://github.com/PetrosyanRobert/BestHotelOffers_bot) is my first graduation project on the course **"Python-Basic"**.
+<br><br>This is where I post the projects I'm working on.
+<br>The [**BestHotelOffers_Bot**](https://github.com/PetrosyanRobert/BestHotelOffers_bot) is my first graduation project on the course **"Python-Basic"**.
 
 <br>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PetrosyanRobert&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
