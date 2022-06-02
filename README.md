@@ -7,7 +7,7 @@ My name is Robert Petrosyan.
 <br><br>This is where I post the projects I'm working on.
 <br>The [**BestHotelOffers_Bot**](https://github.com/PetrosyanRobert/BestHotelOffers_bot) is my first graduation project on the course **"Python-Basic"**.
 
-<br>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PetrosyanRobert&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PetrosyanRobert&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PetrosyanRobert/PetrosyanRobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
