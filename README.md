@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Robert Petrosyan.
-<br>I'm from Armenia, but living in Russia.
+<br>I'm from Armenia.
 
 🌱 I’m currently learning in the educational platform [**Skillbox**](https://go.redav.online/9dbfe2e2e2572ce0) by profession **Python developer**.
 <br><br>This is where I post the projects I'm working on.
